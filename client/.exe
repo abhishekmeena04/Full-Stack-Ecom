@@ -1,0 +1,4 @@
+// #outlet
+// const location = useLocation()
+// console.log("location", location)
+// StrictMode
